@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Tiwari</h1>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshatiwari749&label=Profile%20views&color=0e75b6&style=flat" alt="akankshatiwari749" /> </p>
 
 - 🔭 I’m currently working on **ML based Suspicious activity/object detection**
